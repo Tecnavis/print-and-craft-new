@@ -222,6 +222,7 @@ small, .small {
 mark, .mark {
   padding: 0.2em;
   background-color: #fcf8e3;
+  
 }
 
 /* line 247, src/assets/scss/_reboot.scss */
@@ -4972,7 +4973,12 @@ fieldset:disabled .btn {
   -webkit-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
+#nav-h{
 
+}
+.nav-h:hover{
+  background-color: ;
+}
 @media (prefers-reduced-motion: reduce) {
   /* line 14, src/assets/scss/_nav.scss */
   .nav-link {
@@ -7589,6 +7595,7 @@ fieldset:disabled .btn {
   display: block;
   clear: both;
   content: "";
+  
 }
 
 /* line 29, src/assets/scss/_carousel.scss */

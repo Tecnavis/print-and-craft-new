@@ -57,6 +57,34 @@ p, a {font-weight: 400;}
   min-height: 60vh;
   width: 100%;
 }
+#about{
+  background-image: url("/assets/img/pc8.jpg");
+  background-position: center center; background-size: cover;
+  height: 90%;
+  min-height: 70vh;
+  width:100%;  
+}
+#why{
+  /* background-color: #000; */
+  /* background-position: center center; background-size: cover;
+  height: 100%;
+  min-height: 70vh;
+  width:100%   */
+}
+#Featured-Work{
+  background-image: url("/assets/img/pc17.jpg");
+  background-position: center center; background-size: cover;
+  height: 100%;
+  min-height: 70vh;
+  width:100%;  
+}
+#contact{
+  background-image: url("/assets/img/pc18.jpg");
+  background-position: center center; background-size: cover;
+  height: 100%;
+  min-height: 70vh;
+  width:100%;    
+}
 #index_banner .carousel-item {
   min-height: 60vh;
 }
@@ -122,7 +150,7 @@ p, a {font-weight: 400;}
 }
 /* About */
 #work_banner {
-  background-image: url('./../img/banner-bg-02.jpg');
+  background-image: url('./../img/pc14.jpg');
   background-position: center center; background-size: cover;
   height: 100%;
   width: 100%;
@@ -148,6 +176,7 @@ p, a {font-weight: 400;}
   background: -webkit-linear-gradient(0deg, rgba(239,239,253,1) 50%, rgba(255,255,255,1) 50%);
   background: linear-gradient(0deg, rgba(239,239,253,1) 50%, rgba(255,255,255,1) 50%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#efeffd",endColorstr="#ffffff",GradientType=1);
+  
 }
 .team-member-img {
   transition-duration: 0.15s;

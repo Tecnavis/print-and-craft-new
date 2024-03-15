@@ -51,14 +51,15 @@ p, a {font-weight: 400;}
 #main_nav .nav-item .nav-link:hover {color: #fff;}
 /* Home */
 #index_banner {
-  background-image: url("/assets/img/pc\ 2.jpg");
+  background-image: url("/assets/img/pc\ 2\ \(1\).jpg");
   background-position: center center; background-size: cover;
+  /* filter: blur(1px); */
   height: 100%;
   min-height: 60vh;
   width: 100%;
 }
 #about{
-  background-image: url("/assets/img/pc8.jpg");
+  background-image: url("/assets/img/pc8\ \(1\).jpg");
   background-position: center center; background-size: cover;
   height: 90%;
   min-height: 70vh;
@@ -72,14 +73,15 @@ p, a {font-weight: 400;}
   width:100%   */
 }
 #Featured-Work{
-  background-image: url("/assets/img/pc17.jpg");
+  background-image: url("/assets/img/pc9\ \(1\).jpg");
   background-position: center center; background-size: cover;
+  
   height: 100%;
   min-height: 70vh;
   width:100%;  
 }
 #contact{
-  background-image: url("/assets/img/pc18.jpg");
+  background-image: url("/assets/img/pc18\ \(1\).jpg");
   background-position: center center; background-size: cover;
   height: 100%;
   min-height: 70vh;
@@ -150,7 +152,7 @@ p, a {font-weight: 400;}
 }
 /* About */
 #work_banner {
-  background-image: url('./../img/pc14.jpg');
+  background-image: url('./../img/pc20.jpg');
   background-position: center center; background-size: cover;
   height: 100%;
   width: 100%;
